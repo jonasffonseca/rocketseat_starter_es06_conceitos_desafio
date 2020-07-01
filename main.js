@@ -1,1 +1,0 @@
-alert('Faça os exercícios por conta primeiro!');
