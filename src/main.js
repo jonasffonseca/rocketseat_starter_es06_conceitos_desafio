@@ -1,1 +1,1 @@
-alert('Tente fazer antes de bisbilhotar aqui!');
+alert('Antes de bisbilhotar tente fazer os exercícios antes, please!!!')
